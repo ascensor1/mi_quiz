@@ -11,3 +11,9 @@ if (req.query.respuesta === 'Roma'){
 	res.render('quizes/answer', {respuesta: 'Incorrecto. La respuesta era "Roma"',title: 'Respuesta'});
 }
 };
+
+// GET /author
+exports.author = function(req, res) {
+	res.render("author", {title: "Créditos"});
+};
+
