@@ -7,7 +7,7 @@
 <p>Actualmente trabajando como especialistas en Medicina Est&eacute;tica Avanzada y Antiaging en Almer&iacute;a y Granada. Os detallamos nuestros tratamientos m&aacute;s importantes por ciudades:</p>
 
 <p>Nuestra<a href="https://vigea.es/en/web/centro/granada"> cl&iacute;nica de medicina est&eacute;tica en Granada</a>:</p>
-<p><img src="https://vigea.es/media/documentos/config/VIGEA/medicina_estetica_granada_almeria_vigea_blanco.png" alt="logo_vigea"/></p>
+
 
 <ul>
 	<li><a href="https://vigea.es/es/web/tratamiento/toxina-botulinica-botox">botox en Granada</a></li>
